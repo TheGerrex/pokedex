@@ -1,0 +1,10 @@
+html,
+body {
+    padding: 32px;
+    background-color: #fbfafa;
+}
+
+h1 {
+    font-size: 3em;
+    color: #434343;
+}
